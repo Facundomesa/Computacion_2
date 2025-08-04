@@ -4,7 +4,7 @@ Universidad de Mendoza
 Ingeniería en Informatica
 ---
 
-# TP Analisis Biométrico
+## TP Analisis Biométrico
 
 Este proyecto implementa un sistema de análisis biométrico que genera datos de frecuencia cardíaca, presión arterial y niveles de oxígeno. Utiliza una arquitectura de procesos en Python para analizar y verificar los datos en tiempo real, almacenándolos en una cadena de bloques.
 --- 
